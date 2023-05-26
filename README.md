@@ -1,4 +1,4 @@
-# Store-API-Project
+# Online-Store-API-Project
 Full online Store Api Project using .Net Core
 
 This is a full .Net Core Project for an online store which includes the following APIs : 
